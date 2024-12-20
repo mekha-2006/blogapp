@@ -1,0 +1,28 @@
+
+.editform{
+    background-color: rgb(181, 235, 235);
+    border: 1px solid rgb(117, 117, 209) ;
+    height: 550px;
+    width: 500px;
+    margin-top: 35px;
+}
+
+h2{
+    color: rgb(73, 141, 172);
+    padding-left: 60%;
+    font-size: 30px;
+    margin-top: 13%;
+}
+.boxes{
+    padding-left: 7%;
+    margin-top: 49px;
+}
+.blog{
+    font-size: 16px;
+    margin-top: 9%;
+    margin-left: 10%;
+}
+.update{
+    margin-top: 38%;
+    margin-left: 130%;
+}

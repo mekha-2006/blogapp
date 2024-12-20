@@ -1,0 +1,60 @@
+.indexform{
+    background-color: rgb(187, 234, 218);
+    border: 1px solid rgb(51, 136, 115) ;
+    height: 550px;
+    width: 500px;
+    margin-top: 35px;
+}
+
+h3{
+    font-size: 30px;
+    color: rgb(16, 111, 133);
+    margin-left: 13%;
+}
+.ti{
+    font-size: 18px;
+    padding-top: 10%;
+    padding-left: 13%;
+}
+.box{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.de{
+    font-size: 18px;
+    padding-top: 10%;
+    padding-left: 2%;
+}
+.da{
+    font-size: 18px;
+    padding-top: 10%;
+    padding-left: 13%;
+}
+.au{
+    font-size: 18px;
+    padding-top: 10%;
+    padding-left: 0%;
+}
+
+.sub{
+    padding-top: 4%;
+    margin-top: 30%;
+    padding-left: 12%;
+    padding-right: 12%;
+    padding-bottom: 4%;
+    margin-left: 0%;
+    background-color: rgb(10, 145, 66);
+    border-color: rgb(10, 145, 66);
+    
+}
+.enter{
+    margin-left: 20%;
+}
+.size{
+    font-size: 20px;
+    
+}
+
+
+
+

@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: rgb(7, 84, 16);
+    font-family:'Times New Roman', Times, serif;
+}
+.zero{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 4%;
+}
+.one{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(187, 43, 43);
+    padding-top: 4%;
+    letter-spacing: 1px;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.two{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.edi{
+    padding-left: 21px;
+    padding-right: 21px;
+}
+.three{
+    text-align: center;
+    padding-top: 1%;
+}
+.mybox{
+    background-color: rgba(147, 209, 188,0.3);
+    width: 70%;
+    padding-top: 3%;
+    height: 450px;
+    margin-top: 5%;
+}
+.rec{
+    margin-left: 85%;
+    margin-top: -336%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
